@@ -40,3 +40,8 @@ docker-compose up -d
 ```bash
 docker-compose ps
 ```
+4. Проверка работоспособности
+
+```bash
+curl http://localhost
+```
